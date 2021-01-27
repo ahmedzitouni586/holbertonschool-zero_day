@@ -1,1 +1,1 @@
-alias tetris='emacs -q --no-splash -f tetris
+$ emacs -q --no-splash -f tetris
